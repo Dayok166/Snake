@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  background: black;
+}
+#gameCanvas {
+  display: block;
+  margin: 0 auto;
+  background: #fff;
+  border: 1px solid #fff;
+  margin-top: 200px;
+}
+#scoreBoard {
+  color: #fff;
+  text-align: center;
+  font-family: Arial, sans-serif;
+  font-size: 20px;
+  margin-top: 10px;
+}
